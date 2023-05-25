@@ -1,0 +1,13 @@
+C:\Users\325L-11\Desktop\шумкова пр-21\WorkDM_shumkova\bin\Debug\WorkDM_shumkova.exe.config
+C:\Users\325L-11\Desktop\шумкова пр-21\WorkDM_shumkova\bin\Debug\WorkDM_shumkova.exe
+C:\Users\325L-11\Desktop\шумкова пр-21\WorkDM_shumkova\bin\Debug\WorkDM_shumkova.pdb
+C:\Users\325L-11\Desktop\шумкова пр-21\WorkDM_shumkova\obj\Debug\WorkDM_shumkova.csproj.AssemblyReference.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\WorkDM_shumkova\obj\Debug\WorkDM_shumkova.csproj.SuggestedBindingRedirects.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\WorkDM_shumkova\obj\Debug\WorkDM_shumkova.Authorization_frm.resources
+C:\Users\325L-11\Desktop\шумкова пр-21\WorkDM_shumkova\obj\Debug\WorkDM_shumkova.Properties.Resources.resources
+C:\Users\325L-11\Desktop\шумкова пр-21\WorkDM_shumkova\obj\Debug\WorkDM_shumkova.csproj.GenerateResource.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\WorkDM_shumkova\obj\Debug\WorkDM_shumkova.csproj.CoreCompileInputs.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\WorkDM_shumkova\obj\Debug\WorkDM_shumkova.exe
+C:\Users\325L-11\Desktop\шумкова пр-21\WorkDM_shumkova\obj\Debug\WorkDM_shumkova.pdb
+C:\Users\325L-11\Desktop\шумкова пр-21\WorkDM_shumkova\obj\Debug\WorkDM_shumkova.Admin_frm.resources
+C:\Users\325L-11\Desktop\шумкова пр-21\WorkDM_shumkova\obj\Debug\WorkDM_shumkova.Root_frm.resources
